@@ -1,0 +1,16 @@
+{
+  "name": "omnicreator",
+  "owner": {
+    "name": "wangneo276-lgtm"
+  },
+  "metadata": {
+    "description": "Omni Creator is an AI Photo Editor Online free to try. https://omnicreator.art"
+  },
+  "plugins": [
+    {
+      "name": "omnicreator",
+      "source": "./",
+      "description": "Omni Creator is an AI Photo Editor Online free to try. Sign in, check in for +10 credits daily, and edit photos by typing. https://omnicreator.art"
+    }
+  ]
+}

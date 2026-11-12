@@ -1,0 +1,7 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": ["wangneo276-lgtm"],
+  "displayName": "Omni Creator",
+  "description": "Omni Creator is an AI Photo Editor Online free to try.",
+  "homepage": "https://omnicreator.art"
+}

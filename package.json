@@ -1,0 +1,28 @@
+{
+  "name": "omnicreator-mcp",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Omni Creator is an AI Photo Editor Online free to try. Remote MCP for https://omnicreator.art",
+  "license": "MIT",
+  "homepage": "https://omnicreator.art",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wangneo276-lgtm/omnicreator-mcp"
+  },
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "types": "wrangler types"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/server": "2.4.0",
+    "agents": "^0.33.0",
+    "zod": "^4.1.12"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "latest",
+    "typescript": "^5.9.3",
+    "wrangler": "^4.46.0"
+  }
+}

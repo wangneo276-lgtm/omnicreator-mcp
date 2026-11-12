@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "art.omnicreator/omnicreator",
+  "title": "Omni Creator",
+  "description": "Omni Creator is an AI Photo Editor Online free to try.",
+  "websiteUrl": "https://omnicreator.art",
+  "repository": {
+    "url": "https://github.com/wangneo276-lgtm/omnicreator-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://omnicreator.art/mcp"
+    }
+  ]
+}
